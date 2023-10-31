@@ -8,4 +8,4 @@ function greeting() {
 }
 
 greeting();
-console.log(userName);
+/* console.log(userName); */
